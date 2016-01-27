@@ -1,1 +1,2 @@
 # gitfloweval
+#download and edit 
